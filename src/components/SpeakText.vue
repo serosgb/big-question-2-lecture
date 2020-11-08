@@ -36,7 +36,7 @@
                     <source src="audio/3.mp3" type="audio/mpeg">
                 </audio>              
               <p>
-                  I’ve chosen this topic because the city where we live is surrounded by three volcanoes and one of them the Popocatepetl is considered very dangerous. Furthermore it is currently active.                
+                  I chose this topic because the city where we live is surrounded by three volcanoes and one of them the Popocatepetl is considered very dangerous.
               </p>
           </div>
 
@@ -57,13 +57,10 @@
               <p>
                   <ul>
                       <li>Its name comes from the Nahuatl dialect. It means Smoking Mountain.</li>
-                      <li>It is approximately 730,000 years old. </li>
                       <li>It has a conic shape.</li>
                       <li>It is in the states of Puebla, Morelos, and Mexico, in central Mexico. </li>
                       <li>Puebla city is the closest to the volcano. It is 43 kilometers away.</li>
-                      <li>It is the second-highest peak in Mexico. The summit is at about 5.4 kilometers elevation.
-                      </li>
-                      <li>Its crater has a diameter of 850 m. at its widest part.</li>
+                      <li>It is the second-highest peak in Mexico. The summit is at about 5.4 kilometers elevation.</li>
                   </ul>
               </p>
           </div>
@@ -73,25 +70,10 @@
                     <source src="audio/6.mp3" type="audio/mpeg">
                 </audio>              
               <p>
-                  In 1991 an increase in their activity began, and the fumaroles were already clearly visible from distances of around 50 kilometers.
-              </p>
-              <p>
                   It is very difficult to know in advance which areas would be affected in the event of an eruption. The direction of the winds plays an important role in the ash and gas dispersal.
               </p>
               <p>
-                  There are many communities settled near the crater. So, its inhabitants are in danger.
-              </p>
-          </div>
-          <div>
-              <h3>Volcano Monitoring</h3>
-               <audio controls >
-                    <source src="audio/7.mp3" type="audio/mpeg">
-                </audio>              
-              <p>
-                  The government organism in charge of volcano monitoring is named CENAPRED. It uses a color semaphore to classify the volcano danger.
-              </p>
-              <p>
-                  The red color is considered an imminent eruption.
+                  There are many communities settled near the crater which are in danger.
               </p>
           </div>
           <div>
@@ -100,10 +82,10 @@
                     <source src="audio/8.mp3" type="audio/mpeg">
                 </audio>              
               <p>
-                  Researchers from the National Autonomous University of Mexico (UNAM) designed a risk map that documents the affected areas with lava, pyroclastic flows, ash, and mud streams.
+                  A researchers group designed a risk map that documents the affected areas with lava, pyroclastic flows, ash, and mud streams.
               </p>
               <p>
-                  There are three risk zones: red, orange, and yellow. There are plans to evacuate the nearest communities (those in the red zone).
+                  There are three risk zones: red, orange, and yellow. 
               </p>
               <p>
                   The city of Puebla is in the yellow zone. So, a moderate eruption would be impacted only by the ashfall.
@@ -113,15 +95,16 @@
               <h3>Preventive Measures</h3>
                <audio controls >
                     <source src="audio/9.mp3" type="audio/mpeg">
-                </audio>              
+                </audio>
+              <p>
+                  Some the measures are:
+              </p>              
               <p>
                   <ul>
                       <li>Be attentive to the notices of the authorities in case of any emergency.</li>
                       <li>Stay away from the crater.</li>
                       <li>Keep the evacuation routes in good condition and with the indicated signs.</li>
-                      <li>Verify that temporary shelters have adequate conditions for their function.</li>
                       <li>Conduct drills.</li>
-                      <li>Review procedures and resources in case of a possible evacuation.</li>
                   </ul>
               </p>
           </div>                                        
@@ -137,8 +120,6 @@
                     Thank you for your attention.
                     <br>
                     I hope you have enjoyed this presentation.
-                    <br>
-                    If you have any comments, please reach me out to my email.
                 </p>              
           </div>
       </div>    
